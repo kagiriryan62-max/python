@@ -1,5 +1,1 @@
-print("Hello there")
-
-# This is a comment.
-"""This is another comment"""
-'''This is another docstring'''
+ python.exe -m pip install --upgrade pip
